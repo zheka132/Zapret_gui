@@ -19,3 +19,5 @@ Just as an add-on for those who like a graphical interface
 When you download the files, just put them in the Zapret
 
 Here's the Zapret itself: https://github.com/Flowseal/zapret-discord-youtube
+
+![image alt](https://github.com/zheka132/Zapret_gui/blob/main/photo.png?raw=true)
